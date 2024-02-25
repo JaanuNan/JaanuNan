@@ -7,7 +7,7 @@
 
 👀 Actively seeking internship opportunities in the field of Machine Learning
 
-📫 Reach me out at[here!](mailto:jananin.2003nagaraj@gmail.com)
+📫 Reach me out at [here!](mailto:jananin.2003nagaraj@gmail.com)
 
 📄 [Know about my experiences](https://drive.google.com/file/d/14VUrPJsgB_Z00iMwVAHGT9pVZOpBWH27/view?usp=sharing)
 
