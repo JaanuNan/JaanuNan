@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janani</h1>
-<h3 align="center">Passionate ML Developer and AI Enthusiast</h3>
+
 
 🌱 Exploring the realms of **Artificial Intelligence and Machine Learning** captivates my interest.
 
