@@ -78,7 +78,7 @@
 
 ### 📊 GitHub Overview
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=janani&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaanuNan&show_icons=true&theme=react&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=janani&theme=react&hide_border=true" />
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaanunan&layout=compact&hide=html,css,java,javascript,typescript,other&langs_count=1&theme=react" alt="Most Used Language" />
