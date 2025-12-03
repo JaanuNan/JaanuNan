@@ -10,11 +10,11 @@
 
 
 ---
-### 🧠 Who I Am
-- 🎓 Integrated M.Sc in **AI & ML**, passionate about *turning research into products*  
-- 💼 **Ex-AI Intern @ EY** — built real-time AI audit systems improving efficiency by **45%**  
-- 🛠️ Specializing in **autonomous AI agents**, **multi-modal models**, and **explainable AI**  
-- 💡 Advocating for **ethical and accessible AI innovation**  
+###  🎓 Who I Am
+- Integrated M.Sc in **AI & ML**, passionate about *turning research into products*  
+-  **Ex-AI Intern @ EY** — built real-time AI audit systems improving efficiency by **45%**  
+-  Specializing in **autonomous AI agents**, **multi-modal models**, and **explainable AI**  
+-  Advocating for **ethical and accessible AI innovation**  
 
 ---
 
